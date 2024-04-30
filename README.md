@@ -1,1 +1,2 @@
 Fiz apenas uma pequena alteração no keyframe das orelhas "transform: rotate(var(--rotate))" pois pesquisando vi que a função --rotate talvez não funcione em alguns navegadores. Adicionando a função "calc()" ficando transform: rotate(calc(var(--rotate) * 1deg)).
+Acompanhei o video dela e fui escrevendo junto o código. Tendo problemas com funcionamento do código e pesquisando soluções dos erros que cometia enquanto escrevia, foi bem divertido.
